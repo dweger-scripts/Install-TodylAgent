@@ -9,4 +9,4 @@ Download this script then run with the -DeployKey parameter.
 ## RMM Deployment
 Powershell one-liner for easy use in an RMM.
 
-`$downloadURI = 'https://github.com/dweger-scripts/Uninstall-Teamviewer/raw/main/Uninstall-Teamviewer.ps1'; $script = 'C:\temp\Uninstall-TeamViewer.ps1'; Invoke-WebRequest -URI $downloadURI -Outfile $script `
+` $downloadURI = 'https://github.com/dweger-scripts/Install-TodylAgent/raw/main/Install-TodylAgent.ps1'; $script = 'C:\temp\Install-TodylAgent.ps1'; Invoke-WebRequest -URI $downloadURI -Outfile $script `
